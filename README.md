@@ -39,7 +39,7 @@ I am a student of computer science at Kielce University of Technology (specializ
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/250px-Cisco_logo.svg.png" height=100px >
 
 - WordPress
- <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/250px-Cisco_logo.svg.png](https://e7.pngegg.com/pngimages/874/869/png-clipart-wordpress-web-development-content-management-system-blog-logo-wordpress-blue-web-design.png)" height=100px >
+ <img src="https://e7.pngegg.com/pngimages/874/869/png-clipart-wordpress-web-development-content-management-system-blog-logo-wordpress-blue-web-design.png" height=100px >
 
 # Contact 
 
