@@ -36,10 +36,10 @@ I am a student of computer science at Kielce University of Technology (specializ
 
 - Cisco Hardware and IOS system
 
- <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" height=100px >
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/250px-Cisco_logo.svg.png" height=100px >
 
 - WordPress
- <img src="" height=100px >
+ <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" height=100px >
 
 # Contact 
 
