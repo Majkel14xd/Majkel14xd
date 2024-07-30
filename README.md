@@ -1,5 +1,5 @@
 # Hi! in my GitHub profile! 
-I am a student of computer science at Kielce University of Technology (specialization in ICT and cybersecurity) and I specialize in computer networks, especially Cisco hardware and IoT Platforms.
+I am an engineer and a master's student of computer science at Kielce University of Technology (specialization in ICT and cybersecurity) and I specialize in computer networks, especially Cisco hardware and IoT Platforms and WordPress pages.
 
 </br>Technologies and programming languages:</br>
 - Python
