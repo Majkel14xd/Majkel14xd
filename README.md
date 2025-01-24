@@ -6,10 +6,6 @@ I am an engineer and a master's student of computer science at Kielce University
 
  <img src="https://www.python.org/static/img/python-logo.png">
 
-- C#
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height=100px>
-
 - SQL (MySQL, Microsoft SQL,Oracle SQL)
 
  <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" height=100px >
@@ -25,10 +21,6 @@ I am an engineer and a master's student of computer science at Kielce University
 - CSS
 
  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height=100px >
-
-- PHP
-
- <img src="https://www.php.net/images/logos/new-php-logo.png" height=100px >
 
 - Arduino
 
