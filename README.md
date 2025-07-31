@@ -23,6 +23,8 @@
 
 ### Networks:
 ![Cisco Badge](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-Network%20OS-blue?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Simulation-1abc9c?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### IT Admin:
 ![Proxmox Badge](https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
