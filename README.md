@@ -26,6 +26,12 @@
 ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-Network%20OS-blue?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Simulation-1abc9c?style=for-the-badge&logo=cisco&logoColor=white)
 
+### Web Development
+![Wordpress Badge](https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Django Badge](https://img.shields.io/badge/Django-Web%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-Stylesheet-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ### IT Admin:
 ![Proxmox Badge](https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Windows Server Badge](https://img.shields.io/badge/Windows%20Server-Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -43,11 +49,9 @@
 ### Other:
 ![Python Badge](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Latex Badge](https://img.shields.io/badge/LaTeX-Documentation-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Wordpress Badge](https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-Stylesheet-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/HTML-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Jupyter Notebook Badge](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📊 Statistics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majkel14xd&layout=compact&theme=radical)
