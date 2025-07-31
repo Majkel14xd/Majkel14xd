@@ -25,6 +25,10 @@
 ![Cisco Badge](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-Network%20OS-blue?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-Simulation-1abc9c?style=for-the-badge&logo=cisco&logoColor=white)
+![OpenWrt Badge](https://img.shields.io/badge/OpenWrt-Router%20Firmware-0095D2?style=for-the-badge&logo=openwrt&logoColor=white)
+![OpenMediaVault Badge](https://img.shields.io/badge/OpenMediaVault-NAS-7A7A7A?style=for-the-badge&logo=openmediavault&logoColor=white)
+![Pi-hole Badge](https://img.shields.io/badge/Pi--hole-Ads%20Blocker-F40D20?style=for-the-badge&logo=pihole&logoColor=white)
+![Home Assistant Badge](https://img.shields.io/badge/Home%20Assistant-Home%20Automation-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 ### Web Development
 ![Wordpress Badge](https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
