@@ -29,7 +29,6 @@
 ![OpenMediaVault Badge](https://img.shields.io/badge/OpenMediaVault-NAS-7A7A7A?style=for-the-badge&logo=openmediavault&logoColor=white)
 ![Pi-hole Badge](https://img.shields.io/badge/Pi--hole-Ads%20Blocker-F40D20?style=for-the-badge&logo=pihole&logoColor=white)
 ![Home Assistant Badge](https://img.shields.io/badge/Home%20Assistant-Home%20Automation-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
-![Tailscale Badge](https://img.shields.io/badge/Tailscale-VPN-0061FF?style=for-the-badge&logo=tailscale&logoColor=white)
 
 ### Web Development
 ![Wordpress Badge](https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -50,6 +49,7 @@
 ![Nmap Badge](https://img.shields.io/badge/Nmap-Network%20Scanner-4F7AA7?style=for-the-badge&logo=nmap&logoColor=white)
 ![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark Badge](https://img.shields.io/badge/Wireshark-Network%20Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Tailscale Badge](https://img.shields.io/badge/Tailscale-VPN-0061FF?style=for-the-badge&logo=tailscale&logoColor=white)
 
 ### Other:
 ![Python Badge](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
