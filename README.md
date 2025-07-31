@@ -1,40 +1,37 @@
-# Hi! in my GitHub profile! 
-I am an engineer and a master's student of computer science at Kielce University of Technology (specialization in ICT and cybersecurity) and I specialize in computer networks, especially Cisco hardware and IoT Platforms and WordPress pages.
+# Michał Lidwa
 
-</br>Technologies and programming languages:</br>
-- Python
+## Wordpress Developer and IT Specialist
 
- <img src="https://www.python.org/static/img/python-logo.png">
+Hi! in my GitHub profile! My name is Michał and I am an IT enthusiast with a special interest in four key areas: IT administration, computer networks, cybersecurity, and computer system management. 
 
-- SQL (MySQL, Microsoft SQL,Oracle SQL)
+For over a year, I have been working as a freelancer, creating and maintaining WordPress websites, which has allowed me to gain practical experience in server administration, hosting service configuration, and web application security.
 
- <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Logo.png" height=100px >
+I have completed a number of Cisco CCNA (v7) courses, expanding my knowledge of designing and securing LAN/WAN networks, configuring Cisco network devices, and analyzing network traffic.
 
- <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-transparent-svg-vector-bie-supply-2.png" height=100px >
+I also deal with cybersecurity – I conduct penetration tests, analyze logs, detect vulnerabilities, and secure systems against threats (Burp Suite, Kali Linux, Wireshark, Nmap).
 
-  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" height=100px >
+Additionally, I have experience in managing Windows, Linux, and Windows Server (Active Directory) systems, as well as virtualization environments.
 
-- HTML
+![Views](https://komarev.com/ghpvc/?username=Majkel14xd&style=flat-square)  
 
- <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" height=100px >
+## Technologies and programming languages
 
-- CSS
+### Networks:
+`Cisco IOS` `Cisco` 
 
- <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" height=100px >
+### IT Admin:
+`Proxmox` `Windows Server` `Linux` `MySQL` `Oracle SQL` `MSSQL`
 
-- Arduino
+### Cybersecurity:
+`Kali Linux` `Nmap` `Burp Suite` `Wireshark`
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" height=100px>
+### Other:
+`Python` `Latex` `Wordpress` `Git` `CSS` `HTML` `Arduino`
 
-- Cisco Hardware and IOS system
-
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/250px-Cisco_logo.svg.png" height=100px >
-
-- WordPress
- <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" height=100px >
+## Statistics:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majkel14xd&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Majkel14xd&show_icons=true&theme=radical)
 
 # Contact 
-
-
 - mlidwa@wp.pl 
 - https://www.linkedin.com/in/michał-lidwa-170696282/
