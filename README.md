@@ -52,6 +52,7 @@
 ![Git Badge](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Jupyter Notebook Badge](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Markdown Badge](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 📊 Statistics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majkel14xd&layout=compact&theme=radical)
