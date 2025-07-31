@@ -19,7 +19,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=Majkel14xd&style=flat-square)  
 
-## 🛠 Technologies and programming languages
+## 🛠 Technologies and Tools
 
 ### Networks:
 ![Cisco Badge](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
