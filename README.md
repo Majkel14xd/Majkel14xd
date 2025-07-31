@@ -54,6 +54,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Majkel14xd&show_icons=true&theme=radical)
 
 # 📞 Contact 
-✉️ mlidwa@wp.pl  
-💼 linkedin.com/in/mlidwa 
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlidwa)
+[![Email Badge](https://img.shields.io/badge/e--mail-WP.pl-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlidwa@wp.pl)
