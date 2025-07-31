@@ -22,16 +22,30 @@
 ## 🛠 Technologies and programming languages
 
 ### Networks:
-`Cisco IOS` `Cisco` 
+![Cisco Badge](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### IT Admin:
-`Proxmox` `Windows Server` `Linux` `MySQL` `Oracle SQL` `MSSQL`
+![Proxmox Badge](https://img.shields.io/badge/Proxmox-Virtualization-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Windows Server Badge](https://img.shields.io/badge/Windows%20Server-Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-Administration-333333?style=for-the-badge&logo=linux&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL Badge](https://img.shields.io/badge/Oracle%20SQL-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MSSQL Badge](https://img.shields.io/badge/MSSQL-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Cybersecurity:
-`Kali Linux` `Nmap` `Burp Suite` `Wireshark`
+![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-Pentesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap Badge](https://img.shields.io/badge/Nmap-Network%20Scanner-4F7AA7?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark Badge](https://img.shields.io/badge/Wireshark-Network%20Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Other:
-`Python` `Latex` `Wordpress` `Git` `CSS` `HTML` `Arduino`
+![Python Badge](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Latex Badge](https://img.shields.io/badge/LaTeX-Documentation-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Wordpress Badge](https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-Stylesheet-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Arduino Badge](https://img.shields.io/badge/Arduino-Electronics-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## 📊 Statistics:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Majkel14xd&layout=compact&theme=radical)
