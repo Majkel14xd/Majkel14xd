@@ -2,7 +2,7 @@
 
 ## Wordpress Developer and IT Specialist
 
-👋 Hi! in my GitHub profile!My name is Michał and I am an IT enthusiast with a special interest in four key areas: IT administration, computer networks, cybersecurity, and computer system management. 
+👋 Hi! in my GitHub profile! My name is Michał and I am an IT enthusiast with a special interest in four key areas: IT administration, computer networks, cybersecurity, and computer system management. 
 
 
 💻 For over a year, I have been working as a freelancer, creating and maintaining WordPress websites, which has allowed me to gain practical experience in server administration, hosting service configuration, and web application security.
