@@ -1,20 +1,13 @@
 # Michał Lidwa
 
-## Wordpress Specialist and IT Specialist
+## 🌐 IT Specialist / Network Engineer🔧 WordPress Specialist
 
 👋 Hi! in my GitHub profile! My name is Michał and I am an IT enthusiast with a special interest in four key areas: IT administration, computer networks, cybersecurity, and computer system management. 
-
-
-💻 For over a year, I have been working as a freelancer, creating and maintaining WordPress websites, which has allowed me to gain practical experience in server administration, hosting service configuration, and web application security.
-
-
-🧠 I have completed a number of Cisco CCNA (v7) courses, expanding my knowledge of designing and securing LAN/WAN networks, configuring Cisco network devices, and analyzing network traffic.
-
-
-🔐 I also deal with cybersecurity – I conduct penetration tests, analyze logs, detect vulnerabilities, and secure systems against threats (Burp Suite, Kali Linux, Wireshark, Nmap).
-
-
-🖥️ Additionally, I have experience in managing Windows, Linux, and Windows Server (Active Directory) systems, as well as virtualization environments.
+🖧 IT Specialist / Network Engineer with experience working in an ISP environment, network infrastructure administration and technical support. I work with the configuration and troubleshooting of network and telecommunications equipment, infrastructure monitoring and resolving issues related to network services.
+🌐 I have experience working with LAN/WAN networks, fiber-optic infrastructure, routers, modems and telecommunications equipment. I have completed Cisco CCNA (v7) courses, developing my knowledge of routing, switching, network design and security, as well as network traffic analysis.
+💻 I also have experience in server and hosting administration, WordPress and website maintenance. I work on developing and implementing IT solutions that improve workflows and automate processes.
+🐍 I am currently developing my skills in Python, SQL, databases and process automation, using them to build practical IT solutions. I also have previous experience with C#/.NET, REST APIs and Git, as well as IoT projects using Arduino and Raspberry Pi.
+🚀 I am currently focusing my career development on Network Engineering, IT infrastructure administration, telecommunications networks and Python-based automation.
 
 
 ![Views](https://komarev.com/ghpvc/?username=Majkel14xd&style=flat-square)  
@@ -29,6 +22,7 @@
 ![OpenMediaVault Badge](https://img.shields.io/badge/OpenMediaVault-NAS-7A7A7A?style=for-the-badge&logo=openmediavault&logoColor=white)
 ![Pi-hole Badge](https://img.shields.io/badge/Pi--hole-Ads%20Blocker-F40D20?style=for-the-badge&logo=pihole&logoColor=white)
 ![Home Assistant Badge](https://img.shields.io/badge/Home%20Assistant-Home%20Automation-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![MikroTik Badge](https://img.shields.io/badge/MikroTik-Networking-333333?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 ### Web Development
 ![Wordpress Badge](https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -43,6 +37,7 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle SQL Badge](https://img.shields.io/badge/Oracle%20SQL-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MSSQL Badge](https://img.shields.io/badge/MSSQL-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cybersecurity:
 ![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-Pentesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
