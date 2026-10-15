@@ -23,6 +23,7 @@
 ![Pi-hole Badge](https://img.shields.io/badge/Pi--hole-Ads%20Blocker-F40D20?style=for-the-badge&logo=pihole&logoColor=white)
 ![Home Assistant Badge](https://img.shields.io/badge/Home%20Assistant-Home%20Automation-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![MikroTik Badge](https://img.shields.io/badge/MikroTik-Networking-333333?style=for-the-badge&logo=mikrotik&logoColor=white)
+![RouterOS Badge](https://img.shields.io/badge/RouterOS-Network%20OS-333333?style=for-the-badge&logo=mikrotik&logoColor=white)
 
 ### Web Development
 ![Wordpress Badge](https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
