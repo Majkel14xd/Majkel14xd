@@ -24,6 +24,7 @@
 ![Home Assistant Badge](https://img.shields.io/badge/Home%20Assistant-Home%20Automation-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![MikroTik Badge](https://img.shields.io/badge/MikroTik-Networking-333333?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![RouterOS Badge](https://img.shields.io/badge/RouterOS-Network%20OS-333333?style=for-the-badge&logo=mikrotik&logoColor=white)
+![SmokePing Badge](https://img.shields.io/badge/SmokePing-Network%20Latency-4B4B4B?style=for-the-badge)
 
 ### Web Development
 ![Wordpress Badge](https://img.shields.io/badge/WordPress-Web-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -39,6 +40,7 @@
 ![Oracle SQL Badge](https://img.shields.io/badge/Oracle%20SQL-Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MSSQL Badge](https://img.shields.io/badge/MSSQL-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Zabbix Badge](https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ### Cybersecurity:
 ![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-Pentesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -46,6 +48,7 @@
 ![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark Badge](https://img.shields.io/badge/Wireshark-Network%20Analyzer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Tailscale Badge](https://img.shields.io/badge/Tailscale-VPN-0061FF?style=for-the-badge&logo=tailscale&logoColor=white)
+![Cloudflared Badge](https://img.shields.io/badge/Cloudflared-Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### Other:
 ![Python Badge](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
